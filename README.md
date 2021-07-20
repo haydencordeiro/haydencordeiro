@@ -8,6 +8,13 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/haydencordeiro/)
 - ⚡ Fun fact: I love python
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=haydencordeiro&show_icons=true&hide_border=false)
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydencordeiro&layout=compact" />
+<p align=center style="margin-top: 20px;margin-bottom: 10px">
+  <a href="https://github.com/Terabyte17">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=grejojoby.grejojoby">
+  </a>
+ 
+  <a href="https://github.com/haydencordeiro?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/haydencordeiro?style=flat-square&color=black&logo=github">
+    <a href="https://github.com/haydencordeiro"><img src="https://img.shields.io/github/followers/haydencordeiro?style=social"></a>
+  </a>
+</p>
