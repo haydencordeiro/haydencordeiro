@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love python
 
 <p align=center style="margin-top: 20px;margin-bottom: 10px">
-  <a href="https://github.com/Terabyte17">
+  <a href="https://github.com/haydencordeiro">
     <img src="https://visitor-badge.glitch.me/badge?page_id=grejojoby.grejojoby">
   </a>
  
