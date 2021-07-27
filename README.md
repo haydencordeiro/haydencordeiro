@@ -10,7 +10,7 @@
 
 <p align=center style="margin-top: 20px;margin-bottom: 10px">
   <a href="https://github.com/haydencordeiro">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=grejojoby.grejojoby">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=haydencordeiro.haydencordeiro">
   </a>
  
   <a href="https://github.com/haydencordeiro?tab=repositories">
