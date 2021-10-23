@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Javascript/Python
 - 🤔 I’m looking for help with Neural Networks
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/haydencordeiro/)
+- 📫 How to reach me: [Website](https://hayden.co.in/)
 - ⚡ Fun fact: I love python
 
 <p align=center style="margin-top: 20px;margin-bottom: 10px">
