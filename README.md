@@ -18,3 +18,13 @@
     <a href="https://github.com/haydencordeiro"><img src="https://img.shields.io/github/followers/haydencordeiro?style=social"></a>
   </a>
 </p>
+
+#Projects
+  ## Instainfo 
+  [![Downloads](https://pepy.tech/badge/instainfo)](https://pepy.tech/project/instainfo)
+  [![Downloads](https://pepy.tech/badge/instainfo/month)](https://pepy.tech/project/instainfo)
+  [![Downloads](https://pepy.tech/badge/instainfo/week)](https://pepy.tech/project/instainfo)
+  
+  ## Zenscape
+  
+  ## SpaceTycoon
